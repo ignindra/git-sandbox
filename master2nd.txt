@@ -1,0 +1,3 @@
+first line, master, second file
+second line, master, second file
+third line, master, second file
